@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+
+# mine
+notes.txt
+API_KEY
+API_KEY.txt
+SEARCH_ENGINE_ID
+scratch.py
+bugfist.py
+
 # C extensions
 *.so
 
